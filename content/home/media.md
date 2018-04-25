@@ -1,12 +1,12 @@
 +++
-# Recent and Upcoming Talks widget.
+# Recent mentionsin the media widget.
 
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Talks & Workshops"
+title = "In the Media"
 subtitle = ""
-widget = "talks"
+widget = "media"
 
 # Order that this section will appear in.
 weight = 30
