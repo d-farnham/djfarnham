@@ -188,7 +188,7 @@ defaultContentLanguageInSubdir = false
   
 [[menu.main]]
   name = "CV"
-  url = 'https://github.com/d-farnham/fullcv-master/CV_Farnham_main.pdf'
+  url = 'https://github.com/d-farnham/fullcv-master/blob/master/CV_Farnham_main.pdf'
   weight = 5
 
 # Taxonomies.
