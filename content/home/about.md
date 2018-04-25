@@ -12,11 +12,13 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Education",
+    "Wind and solar power",
+    "Extreme precipitation and flooding",
+    "Climate variability",
     "R",
-    "Statistics",
-    "Natural Language Processing",
-    "Computational Behavioral Science"
+    "Statistical modeling",
+    "Citizen science",
+    "Hobbies: basketball and politics"
   ]
 
 # List your qualifications (such as academic degrees).
