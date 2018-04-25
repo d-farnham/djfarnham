@@ -26,20 +26,24 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Natural Language Processing"
-  tag = ".natural-language-processing"
+  name = "Renewable Energy Future"
+  tag = ".renewable-energy-future"
 
 [[filter]]
-  name = "Autism"
-  tag = ".autism"
+  name = "Extreme Rainfall and Flooding"
+  tag = ".extreme-rainfall-flooding"
   
 [[filter]]
-  name = "Eye-tracking"
-  tag = ".eye-tracking"
+  name = "Hydroclimate Teleconnections"
+  tag = ".hydroclimate-teleconnections"
   
 [[filter]]
-  name = "Outcomes"
-  tag = ".outcomes"
+  name = "El Niño and Media Communication"
+  tag = ".el-nino-media"
+  
+[[filter]]
+  name = "Citizen Science and Waterway Bacterial Monitoring/Modeling"
+  tag = ".citizen-science-waterways"
 
 +++
 
