@@ -1,25 +1,33 @@
 +++
-abstract = "We examined the effect of item-specific and relational encoding instructions on false recognition in two experiments in which the DRM paradigm was used (Deese, 1959; Roediger & McDermott, 1995). Type of encoding (item-specific or relational) was manipulated between subjects in Experiment 1 and within subjects in Experiment 2. Decision-based explanations (e.g., the distinctiveness heuristic) predict reductions in false recognition in between-subjects designs, but not in within-subjects designs, because they are conceptualized as global shifts in decision criteria. Memory-based explanations predict reductions in false recognition in both designs, resulting from enhanced recollection of item-specific details. False recognition was reduced following item-specific encoding instructions in both experiments, favoring a memory-based explanation. These results suggest that providing unique cues for the retrieval of individual studied items results in enhanced discrimination between those studied items and critical lures. Conversely, enhancing the similarity of studied items results in poor discrimination among items within a particular list theme. These results are discussed in terms of the item-specific/relational framework (Hunt & McDaniel, 1993)."
+abstract = "General Circulation Models (GCMs) have been demonstrated to produce estimates of precipitation, including the frequency of extreme precipitation, with substantial bias and uncertainty relative to their representation of other fields. 
+Thus, while theory predicts changes in the hydrologic cycle under anthropogenic warming, there is generally low confidence in future projections of extreme precipitation frequency for specific river basins. 
+In this paper, we explore whether a GCM simulates large-scale atmospheric circulation indices that are associated with regional extreme precipitation (REP) days more accurately than it simulates REP days themselves, and thus whether conditional simulation of the precipitation events based on the circulation indices may improve the simulation of REP events.
+We show that a coupled Geophysical Fluid Dynamics Laboratory GCM simulates too many springtime REP days in the Ohio River Basin in historical (1950-2005) simulations.
+The GCM, however, does credibly simulate the distributional and persistence properties of several indices (which represent the large-scale atmospheric pressure gradient, local atmospheric moisture content, and local vertical velocity) that are shown to modulate the likelihood of REP occurrence in the reanalysis/observational record.
+We show that simulation of REP events based on the GCM-based atmospheric indices greatly reduces the bias of GCM REP frequency relative to the observed record.
+The simulation is conducted via a Bayesian regression model by imposing the empirical relationship between observed REP occurrence and the reanalysis-based atmospheric indices.
+Application of this model to future (2006-2100) representative concentration pathway 8.5 scenario suggests an increasing trend in springtime REP incidence in the study region.
+The proposed approach of simulating precipitation events of interest, particularly those poorly represented in GCMs, with a statistical model based on climate indices that are reasonably simulated by GCMs could be applied to subseasonal to seasonal forecasts as well as future projections."
 
-authors = ["David P. McCabe", "Alison G. Presmanes [Hill]", "Chuck L. Robertson", "Anderson D. Smith"]
-date = "2004-12-01"
+authors = ["David J. Farnham", "James Doss-Gollin", "Upmanu Lall"]
+date = "2018-03-26"
 image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "In *Psychonomic Bulletin & Review*"
-publication_short = "PB&R"
+publication = "In *Water Resources Research*"
+publication_short = "WRR"
 selected = false
-title = "Item-specific Processing Reduces False Memories"
+title = "Regional extreme precipitation events: robust inference from credibly simulated GCM variables"
 url_code = ""
 url_dataset = ""
-url_pdf = "pdf/2004-false-memories.pdf"
+url_pdf = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 
 [[url_custom]]
 name = "View Journal Article"
-url = "http://link.springer.com/article/10.3758/BF03196739"
+url = "https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017WR021318"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
