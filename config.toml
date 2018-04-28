@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "David J. Farnham"
-  # description = "..."
+  description = "David J. Farnham, Columbia University and Columbia Water Center"
   role = "Ph.D. Candidate"
   organization = "Columbia Water Center"
   organization_url = "http://www.water.columbia.edu"
@@ -170,11 +170,16 @@ defaultContentLanguageInSubdir = false
   name = "Home"
   url = "#about"
   weight = 1
+  
+  [[menu.main]]
+  name = "Home"
+  url = "#custom"
+  weight = 2
 
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Contact"
