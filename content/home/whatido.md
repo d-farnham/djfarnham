@@ -1,10 +1,10 @@
 +++
-# About/Biography widget.
+# what I do widget.
 
 date = "2016-04-20T00:00:00"
 draft = false
 
-widget = "custom"
+widget = "whatido"
 
 # Order that this section will appear in.
 weight = 2
@@ -23,7 +23,7 @@ At the same time, the past several years , the prospects of a renewable energy f
 
 
 # What I do
-As an engineer and scientist, my goal is to identify intellectually interesting questions that are *practically useful to answer. While a great deal of innovation has spawned from the physicist, mathematician, or hobby scientists drive to pursue purely intellectual curiosities, I (attempt) to constrain myself to projects that if successful, will have some preconceived value to a stakeholder.  
+As an engineer and scientist, my goal is to identify intellectually interesting questions that are *practically* useful to answer. While a great deal of innovation has spawned from the physicist, mathematician, or hobby scientists drive to pursue purely intellectual curiosities, I (attempt) to constrain myself to projects that if successful, will have some preconceived value to a stakeholder.  
 
 Broadly, I am a researcher combining my training in engineering, statistics and climate science to focus on topics related to climate risk, water resources, and a 100% renewable electricity grid.
 I examine the long-term trends, variability, and predictability of environmental variables to answer questions like: 
