@@ -171,30 +171,35 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
   
-  [[menu.main]]
+[[menu.main]]
   name = "About my work"
   url = "#whatido"
   weight = 2
+    
+[[menu.main]]
+  name = "News"
+  url = "#posts"
+  weight = 3
 
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 3
+  weight = 4
   
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
   
 [[menu.main]]
   name = "CV"
   url = 'https://github.com/d-farnham/fullcv-master/raw/master/CV_Farnham_main.pdf'
-  weight = 6
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
