@@ -14,11 +14,11 @@ weight = 1
   interests = [
     "Wind and solar power",
     "Extreme precipitation and flooding",
-    "Climate variability",
+    "Climate variability and climate change",
     "R",
     "Statistical modeling",
     "Citizen science",
-    "Hobbies: basketball and politics"
+    "Hobbies: playing basketball and following politics"
   ]
 
 # List your qualifications (such as academic degrees).
