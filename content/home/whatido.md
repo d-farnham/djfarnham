@@ -35,6 +35,6 @@ And while floods like those recently in [California](https://en.wikipedia.org/wi
 
 My interest in energy is inspired by the fact that we are living at an exciting time when a fully renewable energy future is increasingly plausible. 
 In particular, the rapidly falling costs of wind and solar power generation technologies are indicators that sharp increases in renewable electricity generation may be imminent ([see page 10 of the report here](https://www.lazard.com/perspective/levelized-cost-of-energy-2017/)). However, increased reliance on wind and solar electricity generation can complicate grid planning and operation due to the temporal and spatial variability of near surface winds and solar radiation. 
-One way to overcome this variability is by transmitting and storing electricity to shift electricity supply in space and time. 
-Unfortunately, electricity storage remains very costly. 
-Thus, there is a need to develop management solutions to address this variability challenge, along with other challenges associated with a future of more dependence on renewable resources like solar and wind power generation.
+One way to overcome this variability is by transmitting electricity over great distances and storing electricity with the goal of re-distributing electricity supply in space and time. 
+Unfortunately, electricity storage remains expensive. 
+There remains a great need to develop management solutions to address the challenges (such as intermittancy and variability) associated with a future of more dependence on renewable resources like solar and wind power generation.
