@@ -6,10 +6,8 @@
       {{- delimit . ", " | markdownify -}}
     {{- end -}}
   </div>
-  <p>{{ partial "publication_links" (dict "content" . "is_list" 1) }}</p>
   
-  
-    <div class="pub-publication">
+  <div class="pub-publication">
     {{ if .Params.publication }}
     {{ .Params.publication | markdownify }},
     {{ else if .Params.publication }}
@@ -17,4 +15,7 @@
     {{ end }}
     {{ .Date.Format "2006" }}
   </div>
+  
+    <p>{{ partial "publication_links" (dict "content" . "is_list" 1) }}</p>
+
 </div>
