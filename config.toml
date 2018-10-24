@@ -26,7 +26,7 @@ defaultContentLanguageInSubdir = false
   organization = "Columbia Water Center"
   organization_url = "http://www.water.columbia.edu"
   avatar = "headshot_farnham.jpg"
-  email = "djf2137@columbia.edu"
+  email = "dfarnham@carnegiescience.edu"
   address = ""
   office_hours = ""
   phone = ""
@@ -129,7 +129,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "paper-plane"
     icon_pack = "fa"
-    link = "mailto:djf2137@columbia.edu"
+    link = "mailto:dfarnham@carnegiescience.edu"
 
   [[params.social]]
     icon = "twitter"
