@@ -1,4 +1,4 @@
-baseurl = "httpS://www.davidjfarnham.com/"
+baseurl = "https://www.davidjfarnham.com/"
 title = "David J. Farnham"
 copyright = "&copy; 2018 David J. Farnham"
 theme = "hugo-academic"
