@@ -14,12 +14,12 @@ weight = 2
 # List your qualifications (such as academic degrees).
  
 +++
-# Science & engineering to design & operate sustainable & resilient water & energy infrastructure 
+# Designing & operating sustainable & resilient water & energy infrastructure 
 
 *This section is under construction*
 
 # What I do
-As an engineer and applied scientist, I aspire to identify lines of investigation that are both intellectually interesting and that will improve water and energy access and efficiency while limiting environmental degradation. 
+As an engineer and applied scientist, I aspire to identify lines of investigation that are both intellectually interesting and that will improve water and energy access while limiting environmental degradation. 
 
 
 I combine my training in engineering, statistics, and climate science to research climate risk, water resources, and a 100% renewable electricity grid. 

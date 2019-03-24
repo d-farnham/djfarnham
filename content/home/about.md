@@ -13,6 +13,7 @@ weight = 1
 [interests]
   interests = [
     "Wind and solar power",
+    "Energy system optimization",
     "Extreme precipitation and flooding",
     "Climate variability and climate change",
     "R",
@@ -23,9 +24,9 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]] 
-course = "Ph.D. Candidate in Earth and Environmental Engineering" 
+course = "Ph.D. in Earth and Environmental Engineering" 
 institution = "Columbia University" 
-#year = Present
+year = 2018
 
 [[education.courses]] 
 course = "M.S. in Earth and Environmental Engineering" 

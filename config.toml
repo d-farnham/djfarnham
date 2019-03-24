@@ -20,11 +20,11 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "David J. Farnham"
+  name = "Dr. David J. Farnham"
   description = "David J. Farnham, Columbia University and Columbia Water Center"
-  role = "Ph.D. Candidate"
-  organization = "Columbia Water Center"
-  organization_url = "http://www.water.columbia.edu"
+  role = "Postdoctoral Research Scientist"
+  organization = "Carnegie Science, Department of Global Ecology @ Stanford University"
+  organization_url = "https://dge.carnegiescience.edu/"
   avatar = "headshot_farnham.jpg"
   email = "dfarnham@carnegiescience.edu"
   address = ""
