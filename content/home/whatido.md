@@ -22,13 +22,15 @@ weight = 2
 As an engineer and applied scientist, I aspire to identify lines of investigation that are both intellectually interesting and that will improve water and energy access while limiting environmental degradation. 
 
 
-I combine my training in engineering, statistics, and climate science to research climate risk, water resources, and a 100% renewable electricity grid. 
-I examine the long-term trends, variability, and predictability of environmental variables to answer questions like: 
+I combine my training in engineering, statistics, and climate science to research climate risk, water resources, and a 100% renewable electricity grid.
+
+In my hydroclimate work, I examine the long-term trends, variability, and predictability of environmental variables to answer questions like: 
 *How has the occurrence and intensity of extreme precipitation changed over time?* 
 *How might the flood hazard change into the future in specific regions?*
 *How does the covariability of extreme temperatures and surface winds impact prospects for a 100% renewable electricity grid?*
 *How does antecedent precipitation impact the bacterial concentration of urban waterways?*
 
+In my energy systesm modeling work, I 
 
 # Why I do what I do
 I was first inspired to research issues related to natural disasters after seeing the devastation caused by Hurricane Katrina in the ninth ward in New Orleans. 

@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Dr. David J. Farnham"
+  name = "David J. Farnham"
   description = "David J. Farnham, Columbia University and Columbia Water Center"
   role = "Postdoctoral Research Scientist"
   organization = "Carnegie Science, Department of Global Ecology @ Stanford University"
