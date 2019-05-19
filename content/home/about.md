@@ -42,8 +42,9 @@ year = 2015
   course = "BA in Mathematics"
   institution = "SUNY-Buffalo"
   year = 2012
- 
+
 +++
 
-
+# About me
+I am a postdoctoral research scientist at Carnegie Science and the Department of Global Ecology at Stanford University working with Dr. Ken Caldeira. I am an engineer and applied scientist who investigates climate risk to critical water and energy infrastructure. I hold a PhD from the Department of Earth and Environmental Engineering at Columbia University where I studied under the advisement of Dr. Upmanu Lall.
 
