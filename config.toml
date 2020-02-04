@@ -200,6 +200,11 @@ defaultContentLanguageInSubdir = false
   name = "CV"
   url = 'https://github.com/d-farnham/fullcv-master/raw/master/CV_Farnham_main.pdf'
   weight = 7
+  
+  [[menu.main]]
+  name = "Limericks"
+  url = 'https://github.com/d-farnham/science_limericks/raw/master/science_limericks.pdf'
+  weight = 8
 
 # Taxonomies.
 [taxonomies]
