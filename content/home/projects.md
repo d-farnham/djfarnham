@@ -24,26 +24,26 @@ view = 1
 [[filter]]
   name = "All"
   tag = "*"
-  
-[[filter]]
-  name = "Renewable Energy Future"
-  tag = ".renewable-energy-future"
 
 [[filter]]
-  name = "Extreme Rainfall and Flooding"
-  tag = ".extreme-rainfall-flooding"
+  name = "Near-zero Emission Energy Systems"
+  tag = ".energy-future"
+
+[[filter]]
+  name = "Flood Risk in the 21st Century"
+  tag = ".flood-risk"
+
+[[filter]]
+  name = "Teleconnections and seasonal to decadal prediction"
+  tag = ".teleconnections"
+
+[[filter]]
+  name = "Urban Waterway Monitoring and Modeling"
+  tag = ".urban-waterways"
   
 [[filter]]
-  name = "Hydroclimate Teleconnections"
-  tag = ".hydroclimate-teleconnections"
-  
-[[filter]]
-  name = "El Niño and Media Communication"
-  tag = ".el-nino-media"
-  
-[[filter]]
-  name = "Citizen Science and Waterway Bacterial Monitoring/Modeling"
-  tag = ".citizen-science-waterways"
+  name = "Citizen Science"
+  tag = ".citizen-science"
 
 +++
 *This section is under construction, and will be updated soon*
