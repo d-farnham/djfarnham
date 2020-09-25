@@ -14,7 +14,7 @@ weight = 2
 # List your qualifications (such as academic degrees).
  
 +++
-# Measuring, modeling, and developing management strategies for climate and weather risks to water & energy systems 
+# Measuring, modeling, and developing management strategies for climate and weather risks to water & energy systems
 
 *This section is under construction*
 
@@ -31,4 +31,4 @@ I am encouraged by the increasing attention being paid to improving the estimati
 
 Research of future energy systems is an exciting field because our collective goal is clear -- reducing the concentration of greeenhouse gases in our atmosphere while maintaining reliable power and energy supply around the globe -- but the best pathway to acheive this goal is very much up for debate.
 For example, there is a great need to develop management solutions to address the challenges that come with a future of more dependence on renewable resources like solar and wind power generation.
-My goal is to inform the development of these management solutions buyt providing relevant scientific insights.
+My goal is to inform the development of these management solutions by providing relevant scientific insights.
