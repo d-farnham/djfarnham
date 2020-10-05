@@ -31,7 +31,7 @@ Our paper -- authored by Tyler Ruggles, me, Dan Tong (UC Irvine), and Ken Caldei
 
 Please check out the paper [*Developing reliable hourly electricity demand data through screening and imputation*](https://lnkd.in/eaNB_Gq) for the details. Hopefully others will find this cleaned data useful! 
 
-You can find the cleaned data [her](https://lnkd.in/e3tQ6Mz)
+You can find the cleaned data [here](https://lnkd.in/e3tQ6Mz)
 And you can find the code used to clean and analyze the data [here](https://lnkd.in/ed3fg_K)
 
 Please email me if you have issues accessing the paper.
