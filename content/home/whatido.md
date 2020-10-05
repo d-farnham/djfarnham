@@ -7,7 +7,7 @@ draft = false
 widget = "whatido"
 
 # Order that this section will appear in.
-weight = 2
+weight = 4
 
 # List your academic interests.
 
