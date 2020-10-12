@@ -29,6 +29,6 @@ Forecasting wind and solar power availability for the upcoming season is potenti
 
 Our paper -- *Skillful statistical models to predict seasonal wind speed and solar radiation in a Yangtze River estuary case study* authored by Peng Zeng, Xun Sun, and myself -- in Scientific Reports uses antecedent sea surface temperature and pressure field patterns to predict wind speed and solar radiation in the Yangtze River estuary. We find that wintertime (November through January) wind sped and and solar radiation is most predictable.
 
-You can find our paper at https://www.nature.com/articles/s41598-020-65281-w. Please email me if you have issues accessing the paper.
+You can find our paper [here](https://www.nature.com/articles/s41598-020-65281-w). Please email me if you have issues accessing the paper.
 
 
