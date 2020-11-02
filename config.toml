@@ -1,6 +1,6 @@
 baseurl = "https://www.davidjfarnham.com/"
 title = "David J. Farnham"
-copyright = "&copy; 2018 David J. Farnham"
+copyright = "&copy; 2020 David J. Farnham"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
