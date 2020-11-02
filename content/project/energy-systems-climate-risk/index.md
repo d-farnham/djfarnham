@@ -5,7 +5,7 @@ summary: XYZ
 abstract: ""
 date: "2020-01-27T00:00:00Z"
 
-image_preview: "projects/energy-systems-climate-risk/wind_solar_during_heat_waves.pdf"
+image_preview: "projects/energy-systems-climate-risk/wind_solar_during_heat_waves.jpg"
 
 
 categories:
@@ -21,7 +21,6 @@ tags:
 ...
 
 <img src="main_fig_1_example_wind_locations.pdf" class="center-block" alt="" style="width:100%;height:100%;">
-
 
 ...
 
