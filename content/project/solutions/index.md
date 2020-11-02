@@ -5,7 +5,7 @@ summary: XYZ
 abstract: ""
 date: "2020-01-27T00:00:00Z"
 
-image_preview: "projects/solutions/global_grid_capacity_import_2018.pdf"
+image_preview: "projects/solutions/global_grid_capacity_import_2018.jpg"
 
 
 categories:

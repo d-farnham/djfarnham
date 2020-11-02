@@ -5,7 +5,7 @@ summary: XYZ
 abstract: ""
 date: "2020-01-27T00:00:00Z"
 
-image_preview: "projects/hydroclimate/REP_projections.pdf"
+image_preview: "projects/hydroclimate/REP_projections.jpg"
 
 categories:
 - hydroclimate
