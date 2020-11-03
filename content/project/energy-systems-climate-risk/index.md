@@ -1,6 +1,6 @@
 ---
 aliases: [energy systems]
-title: Future Energy Systems
+title: Climate risks to energy systems
 summary: XYZ
 abstract: ""
 date: "2020-01-27T00:00:00Z"
