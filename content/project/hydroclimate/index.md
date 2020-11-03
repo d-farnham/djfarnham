@@ -15,12 +15,12 @@ tags:
 
 ...
 
-<img src="framework_color.pdf" class="center-block" alt="" style="width:100%;height:100%;">
+<img src="framework_color.jpg" class="center-block" alt="" style="width:100%;height:100%;">
 
 ...
 
-<img src="El_Nino_past_comparisons.pdf" class="center-block" alt="" style="width:100%;height:100%;">
+<img src="El_Nino_past_comparisons.jpg" class="center-block" alt="" style="width:100%;height:100%;">
 
 ...
 
-<img src="REP_projections.pdf" class="center-block" alt="" style="width:100%;height:100%;">
+<img src="REP_projections.jpg" class="center-block" alt="" style="width:100%;height:100%;">

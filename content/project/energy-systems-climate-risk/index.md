@@ -20,8 +20,8 @@ tags:
 
 ...
 
-<img src="main_fig_1_example_wind_locations.pdf" class="center-block" alt="" style="width:100%;height:100%;">
+<img src="main_fig_1_example_wind_locations.jpg" class="center-block" alt="" style="width:100%;height:100%;">
 
 ...
 
-<img src="wind_solar_during_heat_waves.pdf" class="center-block" alt="" style="width:100%;height:100%;">
+<img src="wind_solar_during_heat_waves.jpg" class="center-block" alt="" style="width:100%;height:100%;">

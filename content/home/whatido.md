@@ -22,7 +22,7 @@ weight = 4
 As an applied scientist and engineer, I work to understand the risks and opportunities poised to our water and energy systems by climate/weather variability and climate change.
 I formulate and conduct analyses to discover novel and creative strategies with which to manage the risks and capitalize on the opportunities that result from our dependence on the weather and climate.
 
-I combine my training in engineering, statistics, and climate science to approach a variety of problems, which are outlined below in the **Projects** section.
+I combine my training in engineering, statistics, and climate science to approach a variety of problems, which are outlined in the **Research Themes** section.
 
 # *Why* I do what I do
 I was first inspired to research issues related to natural disasters (particularly floods) after seeing the devastation caused by Hurricane Katrina in the ninth ward in New Orleans as a high school student.
