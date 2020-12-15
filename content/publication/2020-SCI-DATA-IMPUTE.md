@@ -19,7 +19,7 @@ url_video = ""
 
 [[url_custom]]
 name = "View Journal Article"
-url = "https://ascelibrary.org/doi/full/10.1061/%28ASCE%29WR.1943-5452.0001190?mi=3i1ciu"
+url = "https://www.nature.com/articles/s41597-020-0483-x"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
