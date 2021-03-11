@@ -45,5 +45,9 @@ year = 2015
 
 +++
 
-David Farnham is a postdoctoral research fellow at [Carnegie Science and the Department of Global Ecology](https://dge.carnegiescience.edu/) at Stanford University working with [Dr. Ken Caldeira](https://dge.carnegiescience.edu/labs/caldeira-lab). David is an engineer and applied scientist who investigates climate risk to critical water and energy infrastructure. David holds a PhD from the Department of Earth and Environmental Engineering at Columbia University where he studied under the advisement of [Dr. Upmanu Lall](http://www.columbia.edu/~ula2/).
+I combine earth science, data science, and systems analysis to <br />
+(1) identify vulnerabilities of our water and energy infrastructure to climate variability and climate change, <br />
+(2) quantify climate hazards to these critical infrastructure systems, and <br />
+(3) conduct research that supports efforts to design and operate adaptive and resilient engineered water and energy systems that limit exposure to climate risks and make use of the opportunities presented by nature.
+
 

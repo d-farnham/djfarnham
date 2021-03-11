@@ -14,9 +14,8 @@ weight = 4
 # List your qualifications (such as academic degrees).
  
 +++
-# Measuring, modeling, and developing management strategies for climate and weather risks to water & energy systems
+# Measuring, modeling, and developing management strategies for climate and weather risks to critical infrastructure systems
 
-*This section is under construction*
 
 # What I do
 As an applied scientist and engineer, I work to understand the risks and opportunities poised to our water and energy systems by climate/weather variability and climate change.
@@ -29,6 +28,9 @@ I was first inspired to research issues related to natural disasters (particular
 As we enter the 2020s, risks from climate extremes are commanding increasing attention.
 I am encouraged by the increasing attention being paid to improving the estimation and prediction of extreme climate events by the public and private sector alike. I hope to be a part of this tide.
 
-Research of future energy systems is an exciting field because our collective goal is clear -- reducing the concentration of greeenhouse gases in our atmosphere while maintaining reliable power and energy supply around the globe -- but the best pathway to acheive this goal is very much up for debate.
+Research of future energy systems is an exciting field because our collective goal is clear -- reducing the concentration of greenhouse gases in our atmosphere while maintaining reliable power and energy supply around the globe -- but the best pathway to achieve this goal is very much up for debate.
 For example, there is a great need to develop management solutions to address the challenges that come with a future of more dependence on renewable resources like solar and wind power generation.
 My goal is to inform the development of these management solutions by providing relevant scientific insights.
+
+# Bio
+David Farnham is a postdoctoral research fellow at [Carnegie Science and the Department of Global Ecology](https://dge.carnegiescience.edu/) at Stanford University working with [Dr. Ken Caldeira](https://dge.carnegiescience.edu/labs/caldeira-lab). David is an engineer and applied scientist who investigates climate risk to critical water and energy infrastructure. David holds a PhD from the Department of Earth and Environmental Engineering at Columbia University where he studied under the advisement of [Dr. Upmanu Lall](http://www.columbia.edu/~ula2/).
